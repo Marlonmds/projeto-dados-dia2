@@ -1,0 +1,28 @@
+id,sigla,nome,regiao_nome,regiao_sigla
+12,AC,Acre,Norte,N
+27,AL,Alagoas,Nordeste,NE
+16,AP,Amapá,Norte,N
+13,AM,Amazonas,Norte,N
+29,BA,Bahia,Nordeste,NE
+23,CE,Ceará,Nordeste,NE
+53,DF,Distrito Federal,Centro-Oeste,CO
+32,ES,Espírito Santo,Sudeste,SE
+52,GO,Goiás,Centro-Oeste,CO
+21,MA,Maranhão,Nordeste,NE
+51,MT,Mato Grosso,Centro-Oeste,CO
+50,MS,Mato Grosso do Sul,Centro-Oeste,CO
+31,MG,Minas Gerais,Sudeste,SE
+41,PR,Paraná,Sul,S
+25,PB,Paraíba,Nordeste,NE
+15,PA,Pará,Norte,N
+26,PE,Pernambuco,Nordeste,NE
+22,PI,Piauí,Nordeste,NE
+24,RN,Rio Grande do Norte,Nordeste,NE
+43,RS,Rio Grande do Sul,Sul,S
+33,RJ,Rio de Janeiro,Sudeste,SE
+11,RO,Rondônia,Norte,N
+14,RR,Roraima,Norte,N
+42,SC,Santa Catarina,Sul,S
+28,SE,Sergipe,Nordeste,NE
+35,SP,São Paulo,Sudeste,SE
+17,TO,Tocantins,Norte,N
